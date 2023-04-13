@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ci-cada
+- 👀 I’m interested in Machine Learning, Artificial Intelligence and Software Development
+- 🌱 I’m currently learning software engineering
+- 📫 How to reach me ciphedc@gmail.com/ephesianslewis@gmail.com
